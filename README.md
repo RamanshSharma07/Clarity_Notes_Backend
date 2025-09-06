@@ -1,11 +1,11 @@
-Clarity Notes Backend
+#Clarity Notes Backend
 
 A Spring Boot backend for the Clarity Notes App, providing secure and scalable note management services.
 This backend implements JWT-based authentication with access & refresh tokens, as well as password hashing for user security.
 
 ⸻
 
-✨ Features
+✨ #Features
 	•	🔐 User Authentication
 	•	Register & login with secure password hashing
 	•	JWT Access Tokens for requests
@@ -20,7 +20,7 @@ This backend implements JWT-based authentication with access & refresh tokens, a
 
 ⸻
 
-🛠️ Tech Stack
+🛠️ #Tech Stack
 	•	Spring Boot (Kotlin)
 	•	Spring Security
 	•	JWT (JSON Web Tokens)
